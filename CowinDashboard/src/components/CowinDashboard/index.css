@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.cowin-dashboard-container {
+  min-height: 100vh;
+  background-color: #161625;
+  font-family: 'Roboto';
+  padding: 40px 100px;
+}
+
+.cowin-logo {
+  width: 46px;
+}
+
+.co-win {
+  color: #2cc6c6;
+  font-size: 20px;
+  font-weight: 500;
+  padding: 0px;
+  margin: 0px;
+  margin-left: 10px;
+}
+
+.cowin-title {
+  color: #cbd5e1;
+  font-size: 28px;
+  margin: 30px 0px;
+}
+
+.failure-img {
+  min-width: 300px;
+  width: 50%;
+  max-width: 800px;
+}
+
+.failure-msg {
+  color: #ffffff;
+  font-size: 26px;
+  font-weight: 600;
+  font-family: 'Bree Serif';
+  margin-top: 20px;
+}
