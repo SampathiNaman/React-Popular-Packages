@@ -1,0 +1,39 @@
+/* Write your CSS here */
+.timeline-item-title {
+  color: #1e293b;
+  font-size: 24px;
+  font-weight: 600;
+  padding: 0px;
+  margin: 0px;
+}
+
+.timeline-item-duration {
+  color: #1e293b;
+  font-weight: 500;
+  padding: 0px;
+  margin: 0px;
+  margin-left: 6px;
+}
+
+.timeline-item-description {
+  color: #1e293b;
+  font-size: 16px;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.tag-item {
+  background-color: #677da126;
+  border-radius: 4px;
+}
+
+.tag {
+  color: #1e293b;
+  font-size: 14px;
+  font-weight: 600;
+  padding: 2px 10px;
+  margin: 0px;
+}
