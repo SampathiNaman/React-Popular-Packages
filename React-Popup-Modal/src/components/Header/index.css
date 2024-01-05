@@ -1,0 +1,95 @@
+/* Write your CSS here */
+.nav-bar {
+  border-bottom: 1px solid #dcdcdc;
+  padding: 10px;
+}
+
+@media screen and (min-width: 768px) {
+  .nav-bar {
+    padding: 20px 40px;
+  }
+}
+
+.website-logo {
+  width: 30px;
+}
+
+@media screen and (min-width: 768px) {
+  .website-logo {
+    width: 50px;
+  }
+}
+
+.menu-btn {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.menu-icon {
+  font-size: 18px;
+}
+
+@media screen and (min-width: 768px) {
+  .menu-icon {
+    font-size: 36px;
+  }
+}
+
+.modal-container {
+  min-height: 100vh;
+  width: 98vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.close-btn {
+  background-color: transparent;
+  position: absolute;
+  top: 30px;
+  right: 30px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.modal-items-container {
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.model-item {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+
+.modal-icon {
+  color: black;
+  font-size: 22px;
+}
+
+@media screen and (min-width: 768px) {
+  .modal-icon {
+    font-size: 32px;
+  }
+}
+
+.modal-text {
+  color: black;
+  font-size: 24px;
+  font-weight: 600;
+  padding: 0px;
+  margin: 0px;
+  margin-left: 10px;
+}
+
+@media screen and (min-width: 768px) {
+  .modal-text {
+    font-size: 36px;
+    margin-left: 20px;
+  }
+}
