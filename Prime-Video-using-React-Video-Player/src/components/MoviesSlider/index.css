@@ -1,0 +1,18 @@
+.movie-slider-container {
+  margin: 28px 0px;
+}
+
+.slider-title {
+  color: #ffffff;
+  font-size: 32px;
+  font-family: 'Roboto';
+}
+
+.trigger-btn {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 0px;
+  margin: 0px;
+}
